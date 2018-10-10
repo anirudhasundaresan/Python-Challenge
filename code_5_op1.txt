@@ -1,4 +1,17 @@
-(b'<html>\n<head>\n  <title>peak hell</title>\n  <link rel="stylesheet" type="'
- b'text/css" href="../style.css">\n</head>\n<body>\n<center>\n<img src="peakhel'
- b'l.jpg"/>\n<br><font color="#c0c0ff">\npronounce it\n<br>\n<peakhell src="ban'
- b'ner.p"/>\n</body>\n</html>\n\n<!-- peak hell sounds familiar ? -->\n')
+<html>
+<head>
+  <title>peak hell</title>
+  <link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+<center>
+<img src="peakhell.jpg"/>
+<br><font color="#c0c0ff">
+pronounce it
+<br>
+<peakhell src="banner.p"/>
+</body>
+</html>
+
+<!-- peak hell sounds familiar ? -->
+
