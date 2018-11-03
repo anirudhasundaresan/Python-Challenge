@@ -42,7 +42,7 @@ decode_(pw)
 
 # I was right in guessing that they needed to be decoded. But, bee --> busy --> busy too --> bz2 was the clue.
 import bz2
-print(bz2.decompress(un))
-print(bz2.decompress(pw))
+print(bz2.decompress(un)) #un --> huge
+print(bz2.decompress(pw)) #pw --> file
 
 
