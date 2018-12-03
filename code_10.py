@@ -2,6 +2,9 @@
 a = [1, 11, 21, 1211, 111221,
 Found in: http://www.pythonchallenge.com/pc/return/sequence.txt
 len(a[30]) = ?
+
+# using groupby will help you a lot here.
+total_lists = [list(g) for k,g in groupby(list(stri))            ]
 '''
 
 # idea is to group all similar elements together if they occur together
